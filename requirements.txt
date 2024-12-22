@@ -5,7 +5,7 @@ pandas
 Pillow
 plotly
 seaborn
-skimage
+scikit-image
 streamlit
 streamlit_image_comparison
 tensorflow
